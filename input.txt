@@ -1,0 +1,1 @@
+The code uses single image that is named according to its class as input. The code then automatically extracts multiple 50x50 pixels subimage into the training code. 
